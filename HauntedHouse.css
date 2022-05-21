@@ -1,0 +1,15 @@
+/* CSS styling */
+
+body {
+    /* black background */
+    background-color: black;
+}
+
+/* styling for Hounted <div> section */
+#Haunted {
+    /* center section vertical and horizontal */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
